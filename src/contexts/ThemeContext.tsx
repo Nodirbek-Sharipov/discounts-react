@@ -8,8 +8,10 @@ import {
 	lighten,
 } from '../utils/themeChanger'
 
+const DEFAULT_THEME_MODE = 'light'
+
 const initialState = {
-	themeMode: localStorage.getItem('themeMode'),
+	themeMode: localStorage.getItem('themeMode') || DEFAULT_THEME_MODE,
 	setThemeMode: (theme:string):void=> {},
 }
 
