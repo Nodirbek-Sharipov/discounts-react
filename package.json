@@ -12,6 +12,7 @@
     "@types/react-dom": "^16.9.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-icons": "^3.11.0",
     "react-scripts": "3.4.3",
     "typescript": "~3.7.2"
   },
@@ -22,7 +23,13 @@
     "eject": "react-scripts eject"
   },
   "eslintConfig": {
-    "extends": "react-app"
+    "extends": "react-app",
+    "indent": [
+      "error",
+      "tab"
+    ],
+    "allowIndentationTabs": true,
+    "no-tabs": 0
   },
   "browserslist": {
     "production": [
