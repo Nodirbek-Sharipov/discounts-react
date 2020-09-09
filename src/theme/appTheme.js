@@ -9,6 +9,7 @@ const appTheme = {
 		color_primary_text: "#000000",
 		color_bg_09: "rgba(255,255,255,0.9)",
 		color_divider: "rgba(0,0,0,0.25)",
+		color_box_shadow: "rgba(0, 0, 0, .2)",
 	},
 
 	dark : {
@@ -19,8 +20,9 @@ const appTheme = {
 		color_light_gray_text: "#474a4d",
 		color_gray_text: "#B3BBC6",
 		color_primary_text: "#ffffff",
-		color_bg_09: "rgba(0,0,0,0.9)",
+		color_bg_09: "#2B2B2B",
 		color_divider: "rgba(255,255,255,0.25)",
+		color_box_shadow: "rgba(0, 0, 0, .1)",
 	}
 };
 

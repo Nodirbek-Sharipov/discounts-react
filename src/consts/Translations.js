@@ -5,6 +5,7 @@ export const en = {
 	search_discounts: "Search discounts...",
 	filters: "Filters",
 	search: "Search",
+	select_a_region: "Select a region",
 }
 
 export const uz = {
@@ -14,6 +15,7 @@ export const uz = {
 	search_discounts: "Chegirma izlash...",
 	filters: "Filterlar",
 	search: "Izlash",
+	select_a_region: "Viloyatni tanlang",
 }
 
 export const ru = {
@@ -23,6 +25,7 @@ export const ru = {
 	search_discounts: "Искать скидки...",
 	filters: "Фильтры",
 	search: "Поиск",
+	select_a_region: "Выберите регион",
 }
 
 const Translations = (lang)=>{
