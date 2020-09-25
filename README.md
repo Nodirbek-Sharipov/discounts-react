@@ -1,3 +1,7 @@
+# ReactJS TypeScript boilerplate fot making web sites with multi theme and multi language support
+
+## Live at: https://discounts-react.netlify.app/ 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
